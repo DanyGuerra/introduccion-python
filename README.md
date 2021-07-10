@@ -5,7 +5,7 @@ En este repositorios se encuentran algunos ejemplos introductorios a Python, est
 
 ## Tabla de contenidos
 
-Este es un pequeño curso para todas las personas que desean aprender a programar en el lenguaje Python, así que se abarca desde lo más básico, hasta poder usar los Servicios Cognitivos que ofrece Microsoft.
+Este es un pequeño curso para todas las personas que desean aprender a programar en el lenguaje Python, así que se abarca desde lo más básico.
 
 La tabla de contenidos es la siguiente:
 
